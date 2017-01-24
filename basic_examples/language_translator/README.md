@@ -8,6 +8,8 @@ To use the Language Translator service in Node-RED you first need to make this s
 
 If you are using Node-RED on Bluemix, go to your Node-RED app and click 'add a service or API' This will open a new window where you can select the Language Translator service (Language Identification is part of this service.). Then you click on 'Use' then a screen will show which asks for a restage, click on 'yes' and wait a minute. When the application is started click on the Url to go to your Node-RED application.
 
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=<git_repository_URL> &branch=<git_branch> # [required])
+
 If one of either ways are done, you can continue with the following.
 
 ## Translate 
